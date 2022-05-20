@@ -12,6 +12,12 @@ git branch -M main
 git remote add origin https://github.com/spignouter/React.git
 git push -u origin main
 
+Последовательность такова
+1 добавил add
+2 комитнул commit
+3 пушнул push
+4 помогает в сложных ситуациях git push --force https://github.com/spignouter/React.git
+
 …or push an existing repository from the command line
 
 git remote add origin https://github.com/spignouter/React.git
