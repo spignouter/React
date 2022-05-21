@@ -9,7 +9,7 @@ git remote add origin https://github.com/spignouter/JWT.git
 git push -u origin main
 Token:
 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 
-
+git push --force origin main
 
 HOST
 localhost:27017
